@@ -7,6 +7,7 @@ Advanced System Monitoring and Logging Tool
 </p>
 
 <p align="center">
+  <img width="1338" height="429" alt="image" src="https://github.com/user-attachments/assets/e580c13c-2ff6-41ed-994f-76ca62fc8b83" />
 <a href="https://github.com/Ahlan06/shaban-logger/commits/main"><img src="https://img.shields.io/badge/version-1.0.0-blue"></a>
 <a href="https://github.com/Ahlan06/shaban-logger/blob/main/README.md"><img src="https://img.shields.io/badge/docs-passing-brightgreen.svg"></a>
 <a href="https://github.com/Ahlan06/shaban-logger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Ahlan06/shaban-logger.svg"></a>
