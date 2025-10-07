@@ -149,7 +149,7 @@ Any use without proper authorization
 I'm not responsible for misuse of this software. Users are solely responsible for ensuring they have proper authorization before using this tool on any system.
 
 # Security Note
-This tool is designed for:
+### This tool is designed for:
 
 Security professionals
 
@@ -173,7 +173,7 @@ Verify Python version compatibility
 Check the GitHub Issues page
 
 # Author
-Ahlan06 - Security Researcher
+Ahlan Mira - Student Security Researcher
 
 # License
 This project is provided for educational and research purposes.
