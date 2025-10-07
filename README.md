@@ -85,7 +85,7 @@ python3 install.py
 
 ```
 
-bash ```
+
 ## Webhook Configuration
 
 ### What is a Webhook?
