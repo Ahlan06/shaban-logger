@@ -62,6 +62,7 @@ brew install git        # MacOS
 ```
 Download with `git`:
 
+## Quick Start 
 ```bash
 git clone https://github.com/Ahlan06/shaban-logger.git
 
