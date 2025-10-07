@@ -4,7 +4,7 @@ Advanced system monitoring and logging tool for security professionals and syste
 
 *In tribute to Shaban, a young computer engineering graduate in Gaza, whose memory reflects the strength, knowledge, and hope of a people seeking justice.*
 
-## 🚀 Features
+## Features
 
 - **System Information** - Collect detailed system specs and configuration
 - **Screenshot Capture** - Automatic screenshot logging  
@@ -12,7 +12,7 @@ Advanced system monitoring and logging tool for security professionals and syste
 - **Process Logging** - Real-time process monitoring
 - **Cross-Platform** - Works on Windows and Linux systems
 
-## 📦 Quick Start
+## Quick Start
 
 # Clone the repository
 git clone https://github.com/Ahlan06/shaban-logger.git
