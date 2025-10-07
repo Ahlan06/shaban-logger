@@ -140,10 +140,10 @@ Ensure all dependencies are installed
 
 Verify Python version compatibility
 
-Author
+# Author
 Ahlan06 - Security Researcher
 
-License
+# License
 This project is provided for educational and research purposes.
 
 <div align="center">
