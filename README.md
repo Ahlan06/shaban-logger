@@ -153,9 +153,4 @@ May this tool ensure that his name is never forgotten.
 
 Only use on systems you own or have explicit permission to test.
 
-</div> ```
-🔄 Pour mettre à jour sur GitHub :
-bash
-git add README.md
-git commit -m "Update README with proper formatting and usage instructions"
-git push
+</div>
