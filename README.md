@@ -121,7 +121,7 @@ This project is named after Shaban, a young Palestinian computer scientist from 
 This tool aims to provide clarity and visibility, principles embodied in Shaban's memory.
 
 # Legal Disclaimer
-Intended Use
+### Intended Use
 This tool is intended for:
 
 Educational purposes
@@ -135,7 +135,7 @@ Authorized penetration testing
 Personal systems you own
 
 # Prohibited Use
-STRICTLY PROHIBITED:
+### STRICTLY PROHIBITED:
 
 Unauthorized system monitoring
 
@@ -162,7 +162,7 @@ Authorized testing environments
 Always ensure you have proper authorization before using on any system.
 
 # Support
-For issues and questions:
+### For issues and questions:
 
 Check the troubleshooting section above
 
