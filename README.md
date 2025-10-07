@@ -129,9 +129,10 @@ pip install --user package_name
 Python Version Check
 bash
 python3 --version
-# Should be 3.8 or higher
+Should be 3.8 or higher
 Support
-For issues and questions:
+
+# For issues and questions:
 
 Check the troubleshooting section above
 
