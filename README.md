@@ -14,9 +14,6 @@ Advanced system monitoring and logging tool for security professionals and syste
 
 ## 📦 Quick Start
 
-### Automatic Installation
-
-```bash
 # Clone the repository
 git clone https://github.com/Ahlan06/shaban-logger.git
 cd shaban-logger
@@ -29,11 +26,13 @@ python3 install.py
 
 # Run the application (Windows)
 run_shaban.bat
-Manual Installation
-bash
+
+# Manual Installation
+
 pip install requests pillow psutil pyautogui colorama
+
 🛠️ Usage
-bash
+
 # Using the launcher script (recommended)
 ./run_shaban.sh
 
@@ -43,8 +42,9 @@ python shaban.py
 
 # Run the main logger
 python combined_logger.py
+
 📁 Project Structure
-text
+
 shaban-logger/
 ├── install.py           # Automatic dependency installer
 ├── combined_logger.py   # Main logging system
@@ -52,6 +52,7 @@ shaban-logger/
 ├── run_shaban.sh       # Linux/Mac launcher
 ├── run_shaban.bat      # Windows launcher
 └── README.md           # Documentation
+
 🔧 Requirements
 Python: 3.8 or higher
 
