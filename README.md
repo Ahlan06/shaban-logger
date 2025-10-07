@@ -141,7 +141,7 @@ Ensure all dependencies are installed
 Verify Python version compatibility
 
 # Author
-Ahlan06 - Security Researcher
+Ahlan Mira - Student Security Researcher
 
 # License
 This project is provided for educational and research purposes.
