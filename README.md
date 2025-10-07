@@ -19,6 +19,7 @@ git clone https://github.com/Ahlan06/shaban-logger.git
 cd shaban-logger
 
 # Install dependencies automatically
+rm -rf venv (on kali linux)
 python3 install.py
 
 # Run the application (Linux/Mac)
@@ -69,29 +70,29 @@ pyautogui - Screenshot capture
 colorama - Terminal colors
 
 🖥️ Supported Systems
-✅ Windows 10/11
+-Windows 10/11
 
-✅ Linux (Kali, Ubuntu, Debian)
+-Linux (Kali, Ubuntu, Debian)
 
-✅ macOS (Untested but should work)
+-macOS (Untested but should work)
 
-✨ In Memoriam
+In Memoriam
 This project is named after Shaban, a young Palestinian computer scientist from Gaza with his whole life ahead of him, whose story illustrates the ongoing struggle for justice and transparency. This tool aims to bring clarity and visibility—principles embodied in Shaban's memory.
 
-⚠️ Legal Disclaimer
+Legal Disclaimer
 This tool is intended for:
 
-✅ Educational purposes
+-Educational purposes
 
-✅ Security research
+-Security research
 
-✅ System administration
+-System administration
 
-✅ Authorized penetration testing
+-Authorized penetration testing
 
-✅ Personal systems you own
+-Personal systems you own
 
-❌ PROHIBITED:
+PROHIBITED:
 
 Unauthorized system monitoring
 
@@ -101,7 +102,7 @@ Malicious activities
 
 The authors are not responsible for misuse of this software.
 
-🔒 Security Note
+Security Note
 This tool is designed for:
 
 Security professionals
@@ -114,9 +115,9 @@ Authorized testing environments
 
 Always ensure you have proper authorization before using on any system.
 
-🐛 Troubleshooting
+Troubleshooting
 Installation Issues
-bash
+
 # If using virtual environment (recommended)
 source venv/bin/activate
 
@@ -129,7 +130,7 @@ Python Version Check
 bash
 python3 --version
 # Should be 3.8 or higher
-📞 Support
+Support
 For issues and questions:
 
 Check the troubleshooting section above
@@ -138,14 +139,14 @@ Ensure all dependencies are installed
 
 Verify Python version compatibility
 
-👤 Author
+Author
 Ahlan06 - Security Researcher
 
-📄 License
+License
 This project is provided for educational and research purposes.
 
 <div align="center">
-🕊️ IN MEMORY OF SHABAN 🕊️
+IN MEMORY OF SHABAN 
 
 May this tool ensure that his name is never forgotten.
 
