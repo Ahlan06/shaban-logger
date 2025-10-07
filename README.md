@@ -79,7 +79,6 @@ python3 install.py
 
 # Start the application
 ./run_shaban.sh
-bash
  ```
 
 **Windows**
