@@ -59,6 +59,10 @@ brew install python3                    # MacOS
 
 **Windows:**
 - Download from [git-scm.com](https://git-scm.com/)
+- installation on powershell
+- ```bash
+winget install Git.Git
+```
 
 **Linux/MacOS:**
 ```bash
