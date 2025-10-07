@@ -60,18 +60,6 @@ brew install python3                    # MacOS
 sudo apt install git    # Linux
 brew install git        # MacOS
 ```
-Quick Start
-For Windows
-bash
-# Clone the repository
-git clone https://github.com/Ahlan06/shaban-logger.git
-cd shaban-logger
-
-# Install dependencies
-pip install requests pillow psutil pyautogui colorama
-
-# Run the application
-python shaban.py
 
 ## Webhook Configuration
 
