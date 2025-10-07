@@ -98,10 +98,10 @@ A webhook is a way for applications to provide real-time information to other ap
 This screenshot demonstrates Shaban Logger's powerful monitoring capabilities, showing comprehensive system data collection including:
 
 ### 🔍 **Data Collected:**
-- **🌐 Network Info**: Public IP (185.236.201.42), ISP, Geolocation (Minsk, Belarus)
-- **💻 System Specs**: Linux OS, 21GB RAM, 129GB disk, x86_64 architecture  
-- **👤 User Data**: Root user, hostname 'kali', system time tracking
-- **🛠️ Technical Details**: Python 3.13.7, MAC address, local IP (127.0.0.1)
+- **🌐 Network Info**: Public IP, ISP, Geolocation (Minsk, Belarus)
+- **💻 System Specs**: Linux OS, GB RAM,GB disk, architecture  
+- **👤 User Data**: Root user, hostname, system time tracking
+- **🛠️ Technical Details**: Python 3.13.7, MAC address, local IP
 
 ### 🎯 **Key Features Shown:**
 - Real-time system monitoring
