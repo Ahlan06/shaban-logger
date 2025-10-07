@@ -48,7 +48,7 @@ python3 --version
 # If not installed:
 sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
-bash
+
 ```
 ### Git
 
