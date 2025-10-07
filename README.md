@@ -19,8 +19,8 @@ git clone https://github.com/Ahlan06/shaban-logger.git
 cd shaban-logger
 
 # Install dependencies automatically
-rm -rf venv (on kali linux)
-python3 install.py
+- rm -rf venv (on kali linux)
+- python3 install.py
 
 # Run the application (Linux/Mac)
 ./run_shaban.sh
