@@ -54,10 +54,10 @@ shaban-logger/
 ├── run_shaban.bat      # Windows launcher
 └── README.md           # Documentation
 
-🔧 Requirements
+# Requirements
 Python: 3.8 or higher
 
-Dependencies:
+# Dependencies:
 
 requests - HTTP library
 
@@ -69,17 +69,17 @@ pyautogui - Screenshot capture
 
 colorama - Terminal colors
 
-🖥️ Supported Systems
+# Supported Systems
 -Windows 10/11
 
 -Linux (Kali, Ubuntu, Debian)
 
 -macOS (Untested but should work)
 
-In Memoriam
+# In Memoriam
 This project is named after Shaban, a young Palestinian computer scientist from Gaza with his whole life ahead of him, whose story illustrates the ongoing struggle for justice and transparency. This tool aims to bring clarity and visibility—principles embodied in Shaban's memory.
 
-Legal Disclaimer
+# Legal Disclaimer
 This tool is intended for:
 
 -Educational purposes
@@ -92,7 +92,7 @@ This tool is intended for:
 
 -Personal systems you own
 
-PROHIBITED:
+# PROHIBITED:
 
 Unauthorized system monitoring
 
@@ -102,7 +102,7 @@ Malicious activities
 
 The authors are not responsible for misuse of this software.
 
-Security Note
+# Security Note
 This tool is designed for:
 
 Security professionals
