@@ -73,6 +73,22 @@ pip install requests pillow psutil pyautogui colorama
 # Run the application
 python shaban.py
 ```
+## Webhook Configuration
+
+### What is a Webhook?
+
+A webhook is a way for applications to provide real-time information to other applications. In Shaban Logger, it's used to send collected data to your specified endpoint.
+
+### How to Get a Webhook
+
+#### Discord Webhook (Recommended for beginners)
+
+1. **Create a Discord Server** or use an existing one
+2. **Go to Server Settings** → **Integrations** → **Webhooks**
+3. **Click "New Webhook"**
+4. **Name it** (e.g., "Shaban Logger")
+5. **Copy the Webhook URL**
+6. **Use this URL in your configuration**
 # Project Structure
 
 shaban-logger/
