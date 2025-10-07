@@ -146,7 +146,7 @@ License
 This project is provided for educational and research purposes.
 
 <div align="center">
-# IN MEMORY OF SHABAN 
+IN MEMORY OF SHABAN 
 
 May this tool ensure that his name is never forgotten.
 
