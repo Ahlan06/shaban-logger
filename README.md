@@ -70,7 +70,7 @@ sudo apt install git    # Linux
 brew install git        # MacOS
 ```
 
-## Quick Start 
+# Quick Start 
 
 **Linux/MacOS:**
 ```bash
