@@ -146,7 +146,7 @@ Malicious activities
 Any use without proper authorization
 
 # Responsibility
-The authors are not responsible for misuse of this software. Users are solely responsible for ensuring they have proper authorization before using this tool on any system.
+I'm not responsible for misuse of this software. Users are solely responsible for ensuring they have proper authorization before using this tool on any system.
 
 # Security Note
 This tool is designed for:
