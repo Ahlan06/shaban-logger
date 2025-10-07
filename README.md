@@ -30,36 +30,43 @@ Advanced System Monitoring and Logging Tool
 
 ---
 
-## Installation
+# Installation
 
-### Prerequisites
+## Prerequisites
 
-#### Python 3.8 or higher
+### Python 3.8 or higher
 
 **Windows:**
 - Download from [python.org](https://www.python.org/downloads/)
-- Install with "Add Python to PATH" checked
+- Install with **"Add Python to PATH"** checked
 
 **Linux/MacOS:**
 ```bash
-# Check if installed
+# Check if Python is installed
 python3 --version
 
-# If not installed:
+# Install if missing
 sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
 ```
-Git
+# Installation
+
+## Prerequisites
+
+### Python 3.8 or higher
+
+**Windows:**
+- Download from [python.org](https://www.python.org/downloads/)
+- Install with **"Add Python to PATH"** checked
+
+**Linux/MacOS:**
 ```bash
-Windows:
+# Check if Python is installed
+python3 --version
 
-Download from git-scm.com
-
-Linux/MacOS:
-
-bash
-sudo apt install git    # Linux
-brew install git        # MacOS
+# Install if missing
+sudo apt install python3 python3-pip    # Linux
+brew install python3                    # MacOS
 ```
 
 ## Webhook Configuration
