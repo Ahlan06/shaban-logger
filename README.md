@@ -50,7 +50,22 @@ sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
 bash
 ```
+### Git
+
+### Download for Windows 
+
 Download with `git`:
+
+```bash
+# Clone the repository
+git clone https://github.com/Ahlan06/shaban-logger.git
+cd shaban-logger
+
+# Install dependencies
+pip install requests pillow psutil pyautogui colorama
+
+# Run the application
+python shaban.py
 
 ```bash
 git clone https://github.com/Ahlan06/shaban-logger.git
@@ -69,20 +84,7 @@ python3 install.py
 ./run_shaban.sh
 bash
  ```
-### Download for Windows 
 
-Download with `git`:
-
-```bash
-# Clone the repository
-git clone https://github.com/Ahlan06/shaban-logger.git
-cd shaban-logger
-
-# Install dependencies
-pip install requests pillow psutil pyautogui colorama
-
-# Run the application
-python shaban.py
 ```
 ## Webhook Configuration
 
