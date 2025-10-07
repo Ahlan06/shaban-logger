@@ -15,7 +15,7 @@ Advanced system monitoring and logging tool for security professionals and syste
 ## Quick Start
 
 ### Automatic Installation
-```bash```
+`bash
 # Clone the repository
 git clone https://github.com/Ahlan06/shaban-logger.git
 cd shaban-logger
