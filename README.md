@@ -53,18 +53,14 @@ brew install python3                    # MacOS
 ### Git 
 
 **Windows:**
-- Download from [python.org](https://www.python.org/downloads/)
-- Install with **"Add Python to PATH"** checked
+- Download from git-scm.com
 
 **Linux/MacOS:**
 ```bash
-# Check if Python is installed
-python3 --version
-
-# Install if missing
-sudo apt install python3 python3-pip    # Linux
-brew install python3                    # MacOS
+sudo apt install git    # Linux
+brew install git        # MacOS
 ```
+
 
 ## Webhook Configuration
 
