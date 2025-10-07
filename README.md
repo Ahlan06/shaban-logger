@@ -36,7 +36,7 @@ Advanced System Monitoring and Logging Tool
 
 ### Python 3.8 or higher
 
-**Windows:**
+**Windows :**
 - Download from [python.org](https://www.python.org/downloads/)
 - Install with **"Add Python to PATH"** checked
 
@@ -57,14 +57,14 @@ brew install python3                    # MacOS
 
 ### Git 
 
-**Windows:**
+**Windows :**
 - Download from [git-scm.com](https://git-scm.com/)
 - installation on powershell
 ```bash
 winget install Git.Git
 ```
 
-**Linux/MacOS:**
+**Linux/MacOS :**
 ```bash
 sudo apt install git    # Linux
 brew install git        # MacOS
@@ -72,7 +72,7 @@ brew install git        # MacOS
 
 # Quick Start 
 
-**Linux/MacOS:**
+**Linux/MacOS :**
 ```bash
 git clone https://github.com/Ahlan06/shaban-logger.git
 
@@ -90,7 +90,7 @@ python3 install.py
 ./run_shaban.sh
  ```
 
-**Windows:**
+**Windows :**
 
 ```bash
 # Clone the repository
