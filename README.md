@@ -36,10 +36,10 @@ python3 combined_logger.py
 python3 shaban.py
 
 shaban-logger/
-├── install.py           # Automatic dependency installer
-├── combined_logger.py   # Main logging system
-├── shaban.py           # Additional tools
-└── README.md           # Documentation
+-install.py           # Automatic dependency installer
+-combined_logger.py   # Main logging system
+-shaban.py           # Additional tools
+-README.md           # Documentation
 
 
 # Requirements
