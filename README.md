@@ -49,7 +49,8 @@ sudo apt install python3 python3-pip
 sudo apt update && sudo apt install python3-full
 
 ### Download for Linux (Kali, Ubuntu, Debian...)
-bash``` 
+bash
+```
 Download with `git`:
 
 ```bash
