@@ -60,7 +60,6 @@ brew install python3                    # MacOS
 sudo apt install git    # Linux
 brew install git        # MacOS
 ```
-Download with `git`:
 
 ## Quick Start 
 
