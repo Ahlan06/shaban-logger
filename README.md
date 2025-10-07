@@ -80,7 +80,7 @@ A webhook is a way for applications to provide real-time information to other ap
 
 ### How to Get a Webhook
 
-#### Discord Webhook (Recommended for beginners)
+#### Discord Webhook (Recommended)
 
 1. **Create a Discord Server** or use an existing one
 2. **Go to Server Settings** → **Integrations** → **Webhooks**
