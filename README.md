@@ -40,6 +40,12 @@ Advanced System Monitoring and Logging Tool
 - Download from [python.org](https://www.python.org/downloads/)
 - Install with "Add Python to PATH" checked
 
+```bash
+# Télécharger et installer depuis python.org
+# OU avec winget (Windows 10/11)
+winget install Python.Python.3.12
+```
+
 **Linux/MacOS:**
 ```bash
 # Check if installed
@@ -52,7 +58,8 @@ brew install python3                    # MacOS
 ```
 ### Git
 
-### Download for Windows 
+**Windows:**
+
 
 Download with `git`:
 
