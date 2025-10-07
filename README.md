@@ -92,7 +92,7 @@ A webhook is a way for applications to provide real-time information to other ap
 
  ## 📊 **Shaban Logger - System Monitoring Demo**
 <img width="1094" height="989" alt="image" src="https://github.com/user-attachments/assets/ff25dcf8-08de-4c68-a9dc-0801b2083c10" />
-##  ** Complete System Intelligence Gathering**
+##   Complete System Intelligence Gathering
 
 This screenshot demonstrates Shaban Logger's powerful monitoring capabilities, showing comprehensive system data collection including:
 
