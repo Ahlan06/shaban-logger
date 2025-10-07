@@ -63,6 +63,8 @@ brew install git        # MacOS
 Download with `git`:
 
 ## Quick Start 
+
+**Linux/MacOS:**
 ```bash
 git clone https://github.com/Ahlan06/shaban-logger.git
 
@@ -80,7 +82,7 @@ python3 install.py
 ./run_shaban.sh
 bash
  ```
-### Download for Windows 
+**Download for Windows**
 
 Download with `git`:
 
