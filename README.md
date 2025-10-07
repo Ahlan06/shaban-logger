@@ -49,6 +49,18 @@ python3 --version
 sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
 ```
+Git
+```bash
+Windows:
+
+Download from git-scm.com
+
+Linux/MacOS:
+
+bash
+sudo apt install git    # Linux
+brew install git        # MacOS
+```
 
 ## Webhook Configuration
 
