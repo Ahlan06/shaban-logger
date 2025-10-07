@@ -36,19 +36,18 @@ Advanced System Monitoring and Logging Tool
 
 ### Python 3.8 or higher
 
-**🐧 Linux (Kali, Ubuntu, Debian):**
+**Windows:**
+- Download from [python.org](https://www.python.org/downloads/)
+- Install with "Add Python to PATH" checked
+
+**Linux/MacOS:**
 ```bash
-# Vérifier la version de Python
+# Check if installed
 python3 --version
 
-# Si non installé ou version ancienne :
-sudo apt update && sudo apt upgrade
-sudo apt install python3 python3-pip
-
-# Pour Kali Linux spécifiquement :
-sudo apt update && sudo apt install python3-full
-
-### Download for Linux (Kali, Ubuntu, Debian...)
+# If not installed:
+sudo apt install python3 python3-pip    # Linux
+brew install python3                    # MacOS
 bash
 ```
 Download with `git`:
