@@ -100,7 +100,7 @@ Illegal surveillance
 
 Malicious activities
 
-The authors are not responsible for misuse of this software.
+I am not responsible for misuse of this software.
 
 # Security Note
 This tool is designed for:
