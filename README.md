@@ -81,7 +81,7 @@ python3 install.py
 ./run_shaban.sh
  ```
 
-**Windows**
+**Windows:**
 
 ```bash
 # Clone the repository
