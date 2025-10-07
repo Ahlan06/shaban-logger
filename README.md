@@ -32,7 +32,7 @@ run_shaban.bat
 
 pip install requests pillow psutil pyautogui colorama
 
-🛠️ Usage
+Usage
 
 # Using the launcher script (recommended)
 ./run_shaban.sh
@@ -44,7 +44,7 @@ python shaban.py
 # Run the main logger
 python combined_logger.py
 
-📁 Project Structure
+# Project Structure
 
 shaban-logger/
 ├── install.py           # Automatic dependency installer
