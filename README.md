@@ -89,6 +89,8 @@ A webhook is a way for applications to provide real-time information to other ap
 4. **Name it** (e.g., "Shaban Logger")
 5. **Copy the Webhook URL**
 6. **Use this URL in your configuration**
+<img width="1094" height="989" alt="image" src="https://github.com/user-attachments/assets/ff25dcf8-08de-4c68-a9dc-0801b2083c10" />
+
 # Project Structure
 
 shaban-logger/
