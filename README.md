@@ -23,7 +23,6 @@ Advanced System Monitoring and Logging Tool
 ### Features
 
 - **System Information** - Collect detailed system specs and configuration
-- **Screenshot Capture** - Automatic screenshot logging  
 - **Network Monitoring** - Network interface and connection tracking
 - **Process Logging** - Real-time process monitoring
 - **Cross-Platform** - Works on Windows and Linux systems
