@@ -40,7 +40,7 @@ Advanced System Monitoring and Logging Tool
 - Download from [python.org](https://www.python.org/downloads/)
 - Install with **"Add Python to PATH"** checked
 
-for install on powershell
+- installation on powershell
 ```bash
 winget install Python.Python.3.11
 ```
