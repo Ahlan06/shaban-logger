@@ -34,17 +34,11 @@ Advanced System Monitoring and Logging Tool
 
 ### Prerequisites
 
-### Python 3.8 or higher
+#### Python 3.8 or higher
 
 **Windows:**
 - Download from [python.org](https://www.python.org/downloads/)
 - Install with "Add Python to PATH" checked
-
-```bash
-# Télécharger et installer depuis python.org
-# OU avec winget (Windows 10/11)
-winget install Python.Python.3.12
-```
 
 **Linux/MacOS:**
 ```bash
@@ -54,44 +48,7 @@ python3 --version
 # If not installed:
 sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
-
 ```
-### Git
-
-**Windows:**
-
-
-Download with `git`:
-
-```bash
-# Clone the repository
-git clone https://github.com/Ahlan06/shaban-logger.git
-cd shaban-logger
-
-# Install dependencies
-pip install requests pillow psutil pyautogui colorama
-
-# Run the application
-python shaban.py
-
-```bash
-git clone https://github.com/Ahlan06/shaban-logger.git
-
-# Clone the repository
-git clone https://github.com/Ahlan06/shaban-logger.git
-cd shaban-logger
-
-# Remove any existing virtual environment (if present)
-rm -rf venv
-
-# Run the automatic installer
-python3 install.py
-
-# Start the application
-./run_shaban.sh
-
-```
-
 
 ## Webhook Configuration
 
