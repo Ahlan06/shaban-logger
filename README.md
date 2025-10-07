@@ -43,3 +43,26 @@ Download with `git`:
 
 ```bash
 git clone https://github.com/Ahlan06/shaban-logger.git
+
+# Clone the repository
+git clone https://github.com/Ahlan06/shaban-logger.git
+cd shaban-logger
+
+# Remove any existing virtual environment (if present)
+rm -rf venv
+
+# Run the automatic installer
+python3 install.py
+
+# Start the application
+./run_shaban.sh
+
+# Clone the repository
+git clone https://github.com/Ahlan06/shaban-logger.git
+cd shaban-logger
+
+# Install dependencies
+pip install requests pillow psutil pyautogui colorama
+
+# Run the application
+python shaban.py
