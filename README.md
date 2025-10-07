@@ -1,3 +1,4 @@
+<div align="center">
 Shaban Logger
 
 Advanced system monitoring and logging tool for security professionals and system administrators.
