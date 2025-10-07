@@ -49,11 +49,8 @@ python3 --version
 sudo apt install python3 python3-pip    # Linux
 brew install python3                    # MacOS
 ```
-# Installation
 
-## Prerequisites
-
-### Python 3.8 or higher
+### Git 
 
 **Windows:**
 - Download from [python.org](https://www.python.org/downloads/)
