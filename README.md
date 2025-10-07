@@ -34,8 +34,19 @@ Advanced System Monitoring and Logging Tool
 
 ### Prerequisites
 
-- **Python 3.8** or higher
-- **Git** (recommended for cloning)
+### Python 3.8 or higher
+
+**🐧 Linux (Kali, Ubuntu, Debian):**
+```bash
+# Vérifier la version de Python
+python3 --version
+
+# Si non installé ou version ancienne :
+sudo apt update && sudo apt upgrade
+sudo apt install python3 python3-pip
+
+# Pour Kali Linux spécifiquement :
+sudo apt update && sudo apt install python3-full
 
 ### Download for Linux (Kali, Ubuntu, Debian...)
 
