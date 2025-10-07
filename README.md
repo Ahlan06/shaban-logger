@@ -101,7 +101,7 @@ Linux (Kali Linux, Ubuntu, Debian)
 
 macOS (Untested but should work)
 
-# In Memoriam
+# In Memoriam of Shaban Al Dalu
 This project is named after Shaban, a young Palestinian computer scientist from Gaza with his whole life ahead of him, whose story illustrates the ongoing struggle for justice and transparency. This tool aims to bring clarity and visibility—principles embodied in Shaban's memory.
 
 # Legal Disclaimer
