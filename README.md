@@ -89,7 +89,27 @@ A webhook is a way for applications to provide real-time information to other ap
 4. **Name it** (e.g., "Shaban Logger")
 5. **Copy the Webhook URL**
 6. **Use this URL in your configuration**
+
+ ## 📊 **Shaban Logger - System Monitoring Demo**
 <img width="1094" height="989" alt="image" src="https://github.com/user-attachments/assets/ff25dcf8-08de-4c68-a9dc-0801b2083c10" />
+**Complete System Intelligence Gathering**
+
+This screenshot demonstrates Shaban Logger's powerful monitoring capabilities, showing comprehensive system data collection including:
+
+### 🔍 **Data Collected:**
+- **🌐 Network Info**: Public IP (185.236.201.42), ISP, Geolocation (Minsk, Belarus)
+- **💻 System Specs**: Linux OS, 21GB RAM, 129GB disk, x86_64 architecture  
+- **👤 User Data**: Root user, hostname 'kali', system time tracking
+- **🛠️ Technical Details**: Python 3.13.7, MAC address, local IP (127.0.0.1)
+
+### 🎯 **Key Features Shown:**
+- Real-time system monitoring
+- Geolocation mapping
+- Hardware inventory
+- Network configuration analysis
+- Multi-layer data correlation
+
+**Perfect for security audits and system administration** - providing complete visibility into system operations and network footprint.
 
 # Project Structure
 
