@@ -171,9 +171,6 @@ Linux (Kali Linux, Ubuntu, Debian)
 
 macOS (Untested but should work)
 
-# In Memoriam of Shaban Al Dalu
-This project is named after Shaban, a young Palestinian computer scientist from Gaza who had his whole life ahead of him. He died at the age of 19 during the bombing of Al-Aqsa Hospital by the Israeli Defense Forces on October 14, 2024.
-This tool aims to provide clarity and visibility, principles embodied in Shaban's memory.
 
 # Legal Disclaimer
 ### Intended Use
