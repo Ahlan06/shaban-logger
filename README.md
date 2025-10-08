@@ -74,8 +74,6 @@ brew install git        # MacOS
 
 **Linux/MacOS :**
 ```bash
-git clone https://github.com/Ahlan06/shaban-logger.git
-
 # Clone the repository
 git clone https://github.com/Ahlan06/shaban-logger.git
 cd shaban-logger
